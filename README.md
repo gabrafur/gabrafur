@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielbfurlan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:gabrafur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-  <a href="https://github.com/gabrafur?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://www.linkedin.com/in/gabrielbfurlan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:gabrafur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://github.com/gabrafur?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
 </p>
 
 <p align="center">
-  <strong>Vitória, Brazil</strong> · Italian / EU citizen · Eligible to work in the European Union · Open to remote and international opportunities
+  <strong>Vitória, Brazil · Italian / EU citizen</strong><br />
+  Eligible to work in the European Union · Open to remote and international opportunities
 </p>
 
 <p align="center">
@@ -18,18 +19,10 @@
 
 ## Impact at a glance
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>22+</strong><br />countries served</td>
-    <td align="center" width="33%"><strong>50M+</strong><br />records processed daily</td>
-    <td align="center" width="33%"><strong>100K+</strong><br />users impacted by models</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>99.9%</strong><br />platform reliability</td>
-    <td align="center"><strong>~35%</strong><br />runtime reduction</td>
-    <td align="center"><strong>~20%</strong><br />infrastructure cost reduction</td>
-  </tr>
-</table>
+<p align="center">
+  <strong>22+ countries</strong> · <strong>50M+ records/day</strong> · <strong>100K+ users impacted</strong><br />
+  <strong>99.9% reliability</strong> · <strong>~35% faster runtime</strong> · <strong>~20% lower infrastructure cost</strong>
+</p>
 
 Senior Data and Platform Engineer with **10+ years building production data and software systems** and **4+ years specializing in Azure Databricks, distributed data platforms, Infrastructure as Code, CI/CD, observability, and reliability engineering**.
 
@@ -37,28 +30,10 @@ I am a technical owner of a global personalization platform, with end-to-end res
 
 ## How I operate
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Platform ownership</h3>
-      Own architecture, deployment strategy, developer experience, reliability, and production operations across global data and ML workloads.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Technical leadership</h3>
-      Mentor engineers, review code and RFCs/design documents, lead architecture reviews, and turn recurring decisions into engineering standards.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Reliability engineering</h3>
-      Design observability, idempotency, reconciliation, safe reprocessing, incident response, RCA, and recovery paths for distributed systems.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Cross-functional delivery</h3>
-      Partner with business, data science, engineering, and global platform stakeholders across distributed international teams.
-    </td>
-  </tr>
-</table>
+- **Platform ownership:** Own architecture, deployment strategy, developer experience, reliability, and production operations across global data and ML workloads.
+- **Technical leadership:** Mentor engineers, review code and RFCs/design documents, lead architecture reviews, and turn recurring decisions into engineering standards.
+- **Reliability engineering:** Design observability, idempotency, reconciliation, safe reprocessing, incident response, RCA, and recovery paths for distributed systems.
+- **Cross-functional delivery:** Partner with business, data science, engineering, and global platform stakeholders across distributed international teams.
 
 ## Core technologies
 
@@ -91,74 +66,61 @@ I am a technical owner of a global personalization platform, with end-to-end res
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabrafur/customer-engagement-data-platform">Customer Engagement Data Platform</a></h3>
-      <p>Production-inspired, end-to-end data platform built with synthetic data and explicit clean-room boundaries.</p>
-      <p><strong>Demonstrates</strong></p>
-      <ul>
-        <li>PySpark feature engineering and Delta Lake MERGE semantics</li>
-        <li>Deterministic scoring, data-quality gates, and orchestration</li>
-        <li>Transactional outbox, replay, reconciliation, CI, and tests</li>
-      </ul>
-      <p><code>Python</code> <code>PySpark</code> <code>Delta Lake</code> <code>Databricks</code></p>
-      <p>
-        <a href="https://github.com/gabrafur/customer-engagement-data-platform"><img src="https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white" alt="View Customer Engagement Data Platform" /></a>
-        <a href="https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml"><img src="https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml/badge.svg" alt="Customer Engagement Data Platform CI" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabrafur/my_smart_home">My Smart Home</a></h3>
-      <p>Continuously operated, self-hosted platform treated as an event-driven distributed system rather than a collection of device automations.</p>
-      <p><strong>Demonstrates</strong></p>
-      <ul>
-        <li>Event-driven architecture, integration engineering, and state recovery</li>
-        <li>Versioned infrastructure, observability, and guarded upgrades</li>
-        <li>Privacy boundaries and optional local-AI/agent integrations</li>
-      </ul>
-      <p><code>Python</code> <code>Node-RED</code> <code>MQTT</code> <code>Docker</code></p>
-      <p>
-        <a href="https://github.com/gabrafur/my_smart_home"><img src="https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white" alt="View My Smart Home" /></a>
-        <a href="https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml"><img src="https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml/badge.svg" alt="My Smart Home validation" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### [Customer Engagement Data Platform](https://github.com/gabrafur/customer-engagement-data-platform)
+
+Production-inspired, end-to-end data platform built with synthetic data and explicit clean-room boundaries.
+
+- PySpark feature engineering and Delta Lake MERGE semantics
+- Deterministic scoring, data-quality gates, and configurable orchestration
+- Transactional outbox, replay, reconciliation, CI, packaging, and automated tests
+
+`Python` · `PySpark` · `Spark SQL` · `Delta Lake` · `Databricks`
+
+[![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/customer-engagement-data-platform)
+[![CI](https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml/badge.svg)](https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml)
+
+---
+
+### [My Smart Home](https://github.com/gabrafur/my_smart_home)
+
+Continuously operated, self-hosted platform treated as an event-driven distributed system rather than a collection of device automations.
+
+- Event-driven architecture, integration engineering, and state recovery
+- Versioned infrastructure, observability, guarded upgrades, and disaster recovery
+- Privacy boundaries and optional local-AI/agent integrations
+
+`Python` · `Node-RED` · `MQTT` · `Docker Compose` · `Home Assistant`
+
+[![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/my_smart_home)
+[![Validation](https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml/badge.svg)](https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml)
 
 > All public portfolio projects use synthetic or sanitized data and contain no proprietary employer source code, production data, credentials, or internal business logic.
 
 ## Career highlights
 
-| Organization | Role and selected impact | Period |
-| --- | --- | :---: |
-| **Anheuser-Busch InBev / BEES** | Technical owner of a global personalization platform serving 22+ countries and processing 50M+ records/day. | 2025–Present |
-| **Ambev** | Built and operated Azure Databricks platforms, distributed promotion processing for 200K+ monthly campaigns, and optimizations reducing cloud processing costs by ~70%. | 2022–2025 |
-| **Santander Brazil** | Led data engineering for real-time anti-fraud across 1B+ transactions, contributing to an ~80% reduction in fraud losses (~US$200M). | 2019–2022 |
-| **Itaú Unibanco** | Led forecasting, workforce optimization, and real-time routing initiatives generating more than US$15M/year in operational savings. | 2016–2019 |
+**Anheuser-Busch InBev / BEES · 2025–Present**  
+Technical owner of a global personalization platform serving 22+ countries and processing 50M+ records/day.
 
-## Background and current focus
+**Ambev · 2022–2025**  
+Built and operated Azure Databricks platforms, distributed promotion processing for 200K+ monthly campaigns, and optimizations reducing cloud processing costs by ~70%.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Education</h3>
-      <ul>
-        <li><strong>Postgraduate Specialization in Data Engineering</strong><br />Escola Politécnica da USP</li>
-        <li><strong>Bachelor's in Aerospace Engineering</strong><br />Universidade Federal do ABC</li>
-        <li><strong>Technical Degree in Electrotechnics</strong><br />IFES</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Current development</h3>
-      <ul>
-        <li>Preparing for the <strong>Databricks Certified Data Engineer Professional</strong> examination</li>
-        <li>Deepening expertise in <strong>Generative AI, agent engineering, MLOps, data architecture, and platform engineering</strong></li>
-        <li><strong>Portuguese:</strong> native · <strong>English:</strong> B2 professional · <strong>Spanish:</strong> basic</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Santander Brazil · 2019–2022**  
+Led data engineering for real-time anti-fraud across 1B+ transactions, contributing to an ~80% reduction in fraud losses (~US$200M).
+
+**Itaú Unibanco · 2016–2019**  
+Led forecasting, workforce optimization, and real-time routing initiatives generating more than US$15M/year in operational savings.
+
+## Education
+
+- **Postgraduate Specialization in Data Engineering** — Escola Politécnica da USP
+- **Bachelor's in Aerospace Engineering** — Universidade Federal do ABC
+- **Technical Degree in Electrotechnics** — IFES
+
+## Current development
+
+- Preparing for the **Databricks Certified Data Engineer Professional** examination
+- Deepening expertise in **Generative AI, agent engineering, MLOps, data architecture, and platform engineering**
+- **Portuguese:** native · **English:** B2 professional · **Spanish:** basic
 
 ## Opportunities
 
