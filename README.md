@@ -68,15 +68,16 @@ I am a technical owner of a global personalization platform, with end-to-end res
 
 ### [Customer Engagement Data Platform](https://github.com/gabrafur/customer-engagement-data-platform)
 
-Production-inspired, end-to-end data platform built with synthetic data and explicit clean-room boundaries.
+Verified end-to-end data engineering platform built with synthetic data and explicit clean-room boundaries, with both credential-free local execution and a live Databricks Free Edition path.
 
-- PySpark feature engineering and Delta Lake MERGE semantics
-- Deterministic scoring, data-quality gates, and configurable orchestration
-- Transactional outbox, replay, reconciliation, CI, packaging, and automated tests
+- Five-task Databricks serverless PySpark Job using Unity Catalog managed Delta tables
+- Failing data-quality gates, deterministic ranking, SQL `MERGE`, persisted delivery/outbox simulation, and reconciliation
+- Proven idempotent rerun, bounded replay with zero delivery side effects, and 17/17 commit-bound live acceptance checks
 
-`Python` · `PySpark` · `Spark SQL` · `Delta Lake` · `Databricks`
+`Python` · `PySpark` · `Spark SQL` · `Databricks` · `Unity Catalog` · `Delta Lake`
 
 [![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/customer-engagement-data-platform)
+[![E2E evidence](https://img.shields.io/badge/Databricks-E2E%20Evidence-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://github.com/gabrafur/customer-engagement-data-platform/blob/main/docs/databricks-e2e.md)
 [![CI](https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml/badge.svg)](https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml)
 
 ---
