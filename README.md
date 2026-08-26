@@ -51,8 +51,11 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Integration, quality, and operations**
@@ -63,6 +66,16 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=0B1220)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
+
+**Automation, edge, and local AI**
+
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
+![Matter](https://img.shields.io/badge/Matter-111827?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-4F46E5?style=flat-square)
 
 ## Featured work
 
@@ -82,15 +95,31 @@ Verified end-to-end data engineering platform built with synthetic data and expl
 
 ---
 
+### [Local AI RTX](https://github.com/gabrafur/local-ai-rtx)
+
+Portable, fail-closed runtime for bounded local inference through Ollama-compatible models, with explicit contracts for MCP clients and consuming projects.
+
+- Dependency-free Python MCP stdio server and CLI with deterministic routing and source-anchored log extraction
+- Checksummed, content-addressed releases with atomic activation and recoverable rollback
+- Metadata-only telemetry, disabled-by-default experimental routes, and tightly constrained endpoint recovery
+
+`Python` · `Node.js` · `MCP` · `Ollama` · `NVIDIA RTX` · `WSL2` · `GitHub Actions`
+
+[![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/local-ai-rtx)
+[![Release](https://img.shields.io/github/v/release/gabrafur/local-ai-rtx?style=flat-square&label=Release)](https://github.com/gabrafur/local-ai-rtx/releases/latest)
+[![CI](https://github.com/gabrafur/local-ai-rtx/actions/workflows/ci.yml/badge.svg)](https://github.com/gabrafur/local-ai-rtx/actions/workflows/ci.yml)
+
+---
+
 ### [My Smart Home](https://github.com/gabrafur/my_smart_home)
 
 Continuously operated, self-hosted platform treated as an event-driven distributed system rather than a collection of device automations.
 
 - Event-driven architecture, integration engineering, and state recovery
 - Versioned infrastructure, observability, guarded upgrades, and disaster recovery
-- Privacy boundaries and optional local-AI/agent integrations
+- Privacy boundaries and a version-pinned integration with the external Local AI RTX runtime
 
-`Python` · `Node-RED` · `MQTT` · `Docker Compose` · `Home Assistant`
+`Python` · `JavaScript` · `Node-RED` · `MQTT` · `Docker Compose` · `Home Assistant` · `Zigbee2MQTT` · `Matter` · `YAML/Jinja`
 
 [![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/my_smart_home)
 [![Validation](https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml/badge.svg)](https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml)
