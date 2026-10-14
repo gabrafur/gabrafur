@@ -81,6 +81,10 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![Matter](https://img.shields.io/badge/Matter-111827?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
 ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-4F46E5?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor (Composer)](https://img.shields.io/badge/Cursor%20(Composer)-111827?style=flat-square&logo=cursor&logoColor=white)
 
 ## Featured work
 
