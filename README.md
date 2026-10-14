@@ -69,6 +69,7 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=0B1220)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
 
@@ -81,6 +82,7 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![Matter](https://img.shields.io/badge/Matter-111827?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
 ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-4F46E5?style=flat-square)
+![Databricks Genie](https://img.shields.io/badge/Databricks%20Genie-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=white)
