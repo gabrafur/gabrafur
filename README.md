@@ -40,6 +40,7 @@ I am a technical owner of a global personalization platform, with end-to-end res
 **Data and ML platforms**
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
