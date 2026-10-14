@@ -13,106 +13,47 @@
   Eligible to work in the European Union · Open to remote and international opportunities
 </p>
 
-<p align="center">
-  I design, scale, and operate dependable data platforms — from architecture and infrastructure to delivery, observability, and production recovery.
-</p>
+I build and operate data platforms that turn business data into reliable analytics and operational decisions. My work spans banking, fraud prevention, commercial analytics, and global data products, with responsibility for architecture, delivery, performance, and production recovery.
 
-## Impact at a glance
+**Core stack:** Databricks · PySpark · Python · SQL · Delta Lake · Azure · Airflow
 
-<p align="center">
-  <strong>22+ countries</strong> · <strong>50M+ records/day</strong> · <strong>100K+ users impacted</strong><br />
-  <strong>99.9% reliability</strong> · <strong>~35% faster runtime</strong> · <strong>~20% lower infrastructure cost</strong>
-</p>
+At AB InBev / BEES, I was the technical owner of a global platform delivering real-time datasets for BI, curated tables for Data Science, and model-generated tasks and planned visits through APIs for field representatives.
 
-Senior Data and Platform Engineer with **10+ years building production data and software systems** and **4+ years specializing in Azure Databricks, distributed data platforms, Infrastructure as Code, CI/CD, observability, and reliability engineering**.
+## Selected impact
 
-I am a technical owner of a global personalization platform, with end-to-end responsibility for architecture, deployment strategy, developer experience, model-output delivery, reliability, and production operations.
+- **AB InBev / BEES:** Platform supporting **22+ countries**, processing **50M+ records/day**, and enabling data products and decisioning models that impacted **100K+ users**. Configuration-driven orchestration and platform optimizations reduced runtime by **~35%**, infrastructure cost by **~20%**, and manual operations by **~60%**.
+- **Ambev:** Distributed workflows supporting **200K+ monthly promotion campaigns**. Architecture and performance optimization, in partnership with Databricks, reduced Databricks processing costs by **~70%**.
 
-## How I operate
+## Featured engineering projects
 
-- **Platform ownership:** Own architecture, deployment strategy, developer experience, reliability, and production operations across global data and ML workloads.
-- **Technical leadership:** Mentor engineers, review code and RFCs/design documents, lead architecture reviews, and turn recurring decisions into engineering standards.
-- **Reliability engineering:** Design observability, idempotency, reconciliation, safe reprocessing, incident response, RCA, and recovery paths for distributed systems.
-- **Cross-functional delivery:** Partner with business, data science, engineering, and global platform stakeholders across distributed international teams.
-
-## Core technologies
-
-**Data and ML platforms**
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=111827)
-![Apache Impala](https://img.shields.io/badge/Apache%20Impala-4A5A6A?style=flat-square)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-4F46E5?style=flat-square)
-
-**Cloud, infrastructure, and software engineering**
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Integration, quality, and operations**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=0B1220)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
-
-**Automation, edge, and local AI**
-
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
-![Matter](https://img.shields.io/badge/Matter-111827?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-4F46E5?style=flat-square)
-![Databricks Genie](https://img.shields.io/badge/Databricks%20Genie-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cursor (Composer)](https://img.shields.io/badge/Cursor%20(Composer)-111827?style=flat-square&logo=cursor&logoColor=white)
-
-## Featured work
+These independent projects make my engineering decisions reviewable through code, architecture notes, tests, and operational documentation. They use synthetic or sanitized data and contain no proprietary employer code, production data, credentials, or internal business logic.
 
 ### [Customer Engagement Data Platform](https://github.com/gabrafur/customer-engagement-data-platform)
 
-Verified end-to-end data engineering platform built with synthetic data and explicit clean-room boundaries, with both credential-free local execution and a live Databricks Free Edition path.
+Turns synthetic customer activity into ranked recommendations, with explicit controls for data quality, reruns, historical rebuilding, and simulated delivery.
 
-- Five-task Databricks serverless PySpark Job using Unity Catalog managed Delta tables
-- Failing data-quality gates, deterministic ranking, SQL `MERGE`, persisted delivery/outbox simulation, and reconciliation
-- Proven idempotent rerun, bounded replay with zero delivery side effects, and 17/17 commit-bound live acceptance checks
+- **Processing:** Five-task Databricks serverless pipeline using PySpark and Unity Catalog managed Delta tables, with quality checks that stop invalid data before publication.
+- **Reliability:** An identical rerun inserted **zero new recommendations**; historical replay stayed isolated from normal output and delivery tables.
+- **Evidence:** The documented v0.3.0 run passed **17 independent acceptance checks** against persisted state, tied to the deployed source commit and package.
+
+The public demonstration uses 100 synthetic customers and 380 transactions. It validates processing behavior; production-scale experience is described separately above.
 
 `Python` · `PySpark` · `Spark SQL` · `Databricks` · `Unity Catalog` · `Delta Lake`
 
 [![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/customer-engagement-data-platform)
 [![E2E evidence](https://img.shields.io/badge/Databricks-E2E%20Evidence-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://github.com/gabrafur/customer-engagement-data-platform/blob/main/docs/databricks-e2e.md)
 [![CI](https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml/badge.svg)](https://github.com/gabrafur/customer-engagement-data-platform/actions/workflows/test.yml)
+[Architecture and trade-offs](https://github.com/gabrafur/customer-engagement-data-platform/blob/main/docs/interview-walkthrough.md)
 
 ---
 
 ### [Local AI RTX](https://github.com/gabrafur/local-ai-rtx)
 
-Portable, fail-closed runtime for bounded local inference through Ollama-compatible models, with explicit contracts for MCP clients and consuming projects.
+Connects engineering tools to local Ollama-compatible models through MCP and a CLI, with controlled task routing and validation before a result is used.
 
-- Dependency-free Python MCP stdio server and CLI with deterministic routing and source-anchored log extraction
-- Checksummed, content-addressed releases with atomic activation and recoverable rollback
-- Metadata-only telemetry, disabled-by-default experimental routes, and tightly constrained endpoint recovery
+- **Integration:** Python MCP server and CLI using the standard library, deterministic routing, and log extraction anchored to source content.
+- **Operation:** Versioned, checksummed releases with atomic activation and recoverable rollback.
+- **Boundaries:** Metadata-only telemetry, experimental inference routes disabled by default, and fallback to the primary model when a route is unavailable or rejected.
 
 `Python` · `Node.js` · `MCP` · `Ollama` · `NVIDIA RTX` · `WSL2` · `GitHub Actions`
 
@@ -124,48 +65,113 @@ Portable, fail-closed runtime for bounded local inference through Ollama-compati
 
 ### [My Smart Home](https://github.com/gabrafur/my_smart_home)
 
-Continuously operated, self-hosted platform treated as an event-driven distributed system rather than a collection of device automations.
+A continuously operated home-automation platform used to practice event-driven integration, state recovery, and infrastructure maintenance.
 
-- Event-driven architecture, integration engineering, and state recovery
-- Versioned infrastructure, observability, guarded upgrades, and disaster recovery
-- Privacy boundaries and a version-pinned integration with the external Local AI RTX runtime
+- **Resilience:** Node-RED flows handle duplicate events, stale state, retries, and restart recovery.
+- **Operations:** Versioned infrastructure, observability, and backup/restore procedures with verification and rollback.
+- **Reproducibility:** Public configuration and synthetic tests are separated from private household state; the demo runs without controlling physical devices.
 
 `Python` · `JavaScript` · `Node-RED` · `MQTT` · `Docker Compose` · `Home Assistant` · `Zigbee2MQTT` · `Matter` · `YAML/Jinja`
 
 [![View repository](https://img.shields.io/badge/View-Repository-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrafur/my_smart_home)
 [![Validation](https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml/badge.svg)](https://github.com/gabrafur/my_smart_home/actions/workflows/public-validation.yml)
+[Technical portfolio tour](https://github.com/gabrafur/my_smart_home/blob/main/docs/ENGINEERING_TOUR.md)
 
-> All public portfolio projects use synthetic or sanitized data and contain no proprietary employer source code, production data, credentials, or internal business logic.
+## Engineering approach
 
-## Career highlights
+- **Design for recovery:** Define processing boundaries, stable identities, retry behavior, and reconciliation so reruns and incident recovery have predictable outcomes.
+- **Make decisions reusable:** Turn recurring production problems into shared patterns, configuration-driven workflows, and reviewable architecture decisions.
+- **Connect engineering to users:** Work with Product, Data Science, BI, and business stakeholders to clarify what data must reach each consumer and when.
+- **Develop the team:** Mentor engineers, review code and designs, and align architecture, delivery, and operational responsibilities.
 
-**Anheuser-Busch InBev / BEES · 2025–Present**  
-Technical owner of a global personalization platform serving 22+ countries and processing 50M+ records/day.
+## Professional background
 
-**Ambev · 2022–2025**  
-Built and operated Azure Databricks platforms, distributed promotion processing for 200K+ monthly campaigns, and optimizations reducing cloud processing costs by ~70%.
+**AB InBev / BEES · Senior Data Engineer / Data Platform Technical Lead · Feb 2025–Sep 2026**
 
-**Santander Brazil · 2019–2022**  
-Led data engineering for real-time anti-fraud across 1B+ transactions, contributing to an ~80% reduction in fraud losses (~US$200M). Worked extensively with Apache Hive and Impala.
+Owned architecture, orchestration, deployment, observability, and incident response for a global data platform. Built partition-scoped Delta `MERGE` and retry strategies, workflow controls that kept snapshots consistent, and idempotent delivery and reconciliation patterns for concurrent country workloads. Integrated Cosmos DB, files, ODBC sources, and Delta tables into batch and streaming pipelines serving BI, Data Science, and operational APIs.
 
-**Itaú Unibanco · 2016–2019**  
-Led forecasting, workforce optimization, and real-time routing initiatives generating more than US$15M/year in operational savings.
+**Ambev · Data Engineer Specialist / Databricks Lakehouse Engineer · Jun 2022–Feb 2025**
 
-## Education
+Built Azure Databricks solutions for Revenue Management, marketplace prioritization, and promotion optimization. Integrated intraday weather data for **5,000+ Brazilian cities** and external market research into analytical workflows. Worked with Airflow, Azure Data Factory, Unity Catalog, Azure DevOps, RabbitMQ, and Azure Service Bus.
 
-- **Postgraduate Specialization in Data Engineering** — Escola Politécnica da USP
-- **Bachelor's in Aerospace Engineering** — Universidade Federal do ABC
-- **Technical Degree in Electrotechnics** — IFES
+**Santander Brazil · Senior Data Analyst / Data Engineer, Fraud Analytics · Dec 2019–May 2022**
 
-## Current development
+Built ETL and streaming pipelines, fraud-monitoring data structures, and reusable Python tooling. Worked extensively with **Apache Hive and Impala**. Developed systems connecting anomaly detection to operational workflows and supported fraud-prevention initiatives associated with **~80% lower losses within the covered scope**, approximately **US$200M**.
 
-- Preparing for the **Databricks Certified Data Engineer Professional** examination
-- Deepening expertise in **Generative AI, agent engineering, MLOps, data architecture, and platform engineering**
-- **Portuguese:** native · **English:** B2 professional · **Spanish:** basic
+**Itaú Unibanco · Operations Analytics and Workforce Planning · Dec 2016–Dec 2019**
 
-## Opportunities
+Progressed from intern to planning and performance analyst. Used SQL, SAS, and operational data to improve forecasting, staffing, routing, and service-center availability. Contributed to approximately **US$5M in annual savings** through resource reallocation and a further **US$10M** through improved service-center availability.
 
-I am open to Senior or Staff-level roles in **Data Engineering, Data Platform Engineering, Data Architecture, or MLOps**, especially opportunities involving global platforms, technical leadership, reliability, and complex distributed systems.
+## Technologies and tools
+
+**Data platforms and orchestration**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=111827)
+![Apache Impala](https://img.shields.io/badge/Apache%20Impala-4A5A6A?style=flat-square)
+
+**Languages and development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Cloud, infrastructure, and delivery**
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Integration, quality, and observability**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=0B1220)
+
+**AI tools and local inference**
+
+![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor (Composer)](https://img.shields.io/badge/Cursor%20(Composer)-111827?style=flat-square&logo=cursor&logoColor=white)
+![Databricks Genie](https://img.shields.io/badge/Databricks%20Genie-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-4F46E5?style=flat-square)
+
+**Automation and IoT**
+
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
+![Matter](https://img.shields.io/badge/Matter-111827?style=flat-square)
+
+## Education and development
+
+- **Postgraduate Specialization in Data Engineering** · Escola Politécnica da USP
+- **Bachelor's in Aerospace Engineering** · Universidade Federal do ABC
+- **Technical Degree in Electrotechnics** · IFES
+- Preparing for the **Databricks Certified Data Engineer Professional** examination.
+- Continuing development in **Generative AI, agent engineering, MLOps, and data platform architecture**.
+- **Languages:** Portuguese (native) · English (B2 professional) · Spanish (basic)
+
+## Connect
+
+Interested in Senior and Staff opportunities in **Data Engineering and Data Platform Engineering**, with a focus on technical leadership, reliable distributed processing, and global data products.
 
 <p align="center">
   <a href="mailto:gabrafur@gmail.com"><img src="https://img.shields.io/badge/Discuss%20an%20opportunity-gabrafur%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Gabriel Furlan" /></a>
