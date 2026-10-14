@@ -44,6 +44,8 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=111827)
+![Apache Impala](https://img.shields.io/badge/Apache%20Impala-4A5A6A?style=flat-square)
 ![MLOps](https://img.shields.io/badge/MLOps-4F46E5?style=flat-square)
 
 **Cloud, infrastructure, and software engineering**
@@ -135,7 +137,7 @@ Technical owner of a global personalization platform serving 22+ countries and p
 Built and operated Azure Databricks platforms, distributed promotion processing for 200K+ monthly campaigns, and optimizations reducing cloud processing costs by ~70%.
 
 **Santander Brazil · 2019–2022**  
-Led data engineering for real-time anti-fraud across 1B+ transactions, contributing to an ~80% reduction in fraud losses (~US$200M).
+Led data engineering for real-time anti-fraud across 1B+ transactions, contributing to an ~80% reduction in fraud losses (~US$200M). Worked extensively with Apache Hive and Impala.
 
 **Itaú Unibanco · 2016–2019**  
 Led forecasting, workforce optimization, and real-time routing initiatives generating more than US$15M/year in operational savings.
