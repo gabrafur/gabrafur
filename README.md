@@ -48,6 +48,7 @@ I am a technical owner of a global personalization platform, with end-to-end res
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=111827)
 ![Apache Impala](https://img.shields.io/badge/Apache%20Impala-4A5A6A?style=flat-square)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-4F46E5?style=flat-square)
 
 **Cloud, infrastructure, and software engineering**
